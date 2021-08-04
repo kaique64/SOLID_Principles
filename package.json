@@ -1,0 +1,28 @@
+{
+  "name": "solid_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kaique henrique <kaiquehenrique.2005@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dip": "tsnd --inspect --transpile-only --ignore-watch node_modules src/dip/main.ts",
+    "isp": "tsnd --inspect --transpile-only --ignore-watch node_modules src/isp/main.ts",
+    "lsp": "tsnd --inspect --transpile-only --ignore-watch node_modules src/lsp/main.ts",
+    "ocp": "tsnd --inspect --transpile-only --ignore-watch node_modules src/ocp/main.ts",
+    "srp": "tsnd --inspect --transpile-only --ignore-watch node_modules src/srp/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.10",
+    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/parser": "^4.29.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {}
+}
