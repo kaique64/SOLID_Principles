@@ -27,18 +27,18 @@ Os princípios são eles:
 
 <ul>
   <li> SRP (Single Responsibility Principle) </li>
-    <b> Princípio da Responsabilidade Única </b>
+    <b> Princípio da Responsabilidade Única </b><br />
     Uma classe deve ter um, e somente um, motivo para mudar.
   <li> OCP (Open-Close Principle) </li>
-    <b> Princípio do Aberto-Fechado </b>
+    <b> Princípio do Aberto-Fechado </b><br />
     Uma classe deve estar aberta a extensão, mas fechada para modificação.
   <li> LSP (Liskov Substuition Principle) </li>
-    <b> Princípio da Substituição de Liskov </b>
+    <b> Princípio da Substituição de Liskov </b><br />
     Uma classe derivada deve ser substituiveis por classes bases.
   <li> ISP (Interface Segregation Principle) </li>
-    <b> Princípio da Segregação de Interface </b>
+    <b> Princípio da Segregação de Interface </b><br />
     Os clientes não devem ser forçados a dependerem de uma interface que não utilizam.
    <li> DIP (Dependecy Inversion Principle) </li>
-    <b> Princípio da Inversão de Dependência </b>
+    <b> Princípio da Inversão de Dependência </b><br />
     Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações.
 </ul>
