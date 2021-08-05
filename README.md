@@ -1,5 +1,5 @@
 # O que foi feito neste projeto?
-Neste projeto foi posto em prática os conceitos de SOLID. Este projeto foi desenvolvido no Curso de JavaScript e TypeScript do básico ao avançado 2021 de Luiz Otávio Miranda, 
+Neste projeto foi posto em prática os conceitos de SOLID utilizando TypeScript. Este projeto foi desenvolvido no Curso de JavaScript e TypeScript do básico ao avançado 2021 de Luiz Otávio Miranda, 
 disponível na plataforma Udemy.
 
 # O que é SOLID?
